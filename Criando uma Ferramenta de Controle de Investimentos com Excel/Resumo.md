@@ -18,4 +18,4 @@ Com base nesses dados, são calculados: o valor sugerido de investimento mensal,
 Por fim, a ferramenta apresenta uma sugestão de distribuição do investimento entre diferentes tipos de fundos — Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelaria — de acordo com o perfil de investimento com o qual o usuário se identifica: Conservador, Moderado ou Agressivo.
 As porcentagens utilizadas nessa distribuição são totalmente customizáveis na aba “Dados do Perfil”.
 
-Para acessar a planilha completa clique aqui:
+Para acessar a planilha completa clique aqui: https://github.com/mariaclara290/Excel-com-IA/blob/16cc1b3ad1696115092ee9f7cb3868d15373f8d4/Criando%20uma%20Ferramenta%20de%20Controle%20de%20Investimentos%20com%20Excel/Ferramenta%20de%20Controle%20de%20Investimentos%20com%20Excel.xlsx 
