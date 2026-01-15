@@ -5,6 +5,8 @@ integrando indicadores financeiros, comportamento de renovação, uso de cupons 
 
 A construção do painel envolveu a aplicação prática de conceitos de modelagem de dados, agregações, segmentação, análise temporal e visualização interativa.
 
+🔗[Acesse o Dashboard](Dashboard-de-Vendas-do-Xbox-com-Excel/Dashboard_Vendas_Xbox.xlsx)
+
 ## 1. Definição do Contexto e Escopo da Análise
 
 No topo do dashboard, foram definidos e exibidos o Calculation Period (01/01/2024 a 31/01/2024) e a Update Date (14/01/2026 às 12:00).
